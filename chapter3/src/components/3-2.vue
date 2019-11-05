@@ -4,7 +4,7 @@
   </div>
 </template>
 <script>
-  import store from 'src/store';
+  import store from 'src/stores';
   export default {
     computed: {
       count () {
